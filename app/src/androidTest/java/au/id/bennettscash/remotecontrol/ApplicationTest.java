@@ -1,4 +1,4 @@
-package bennettscash.id.au.remotecontrol;
+package au.id.bennettscash.remotecontrol;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

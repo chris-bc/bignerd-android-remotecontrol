@@ -1,4 +1,4 @@
-package bennettscash.id.au.remotecontrol;
+package au.id.bennettscash.remotecontrol;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
